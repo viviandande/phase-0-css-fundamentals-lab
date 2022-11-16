@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+h1 {
+  text-align : center;
+}
+
+div {
+  float : left;
+  width : 25%;
+  background-color: palegreen;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+
+ nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(168, 31, 157);
+  color: rgb(240, 255, 243);
+  }
+header nav {
+text-align: center;
+}
+
+ figcaption {
+  font-size: 12px;
+  text-align: center;
+ }
+ .Meghan {
+  max-width: 800px;
+  min-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  padding :10px;
+ }
